@@ -1,1 +1,2 @@
-print("Car Price Prediction")
+print("Car Price Prediction System")
+print("Prediction module is ready.")
